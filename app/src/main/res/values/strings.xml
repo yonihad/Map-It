@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Map-it</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="types">
+        <item name="airport"></item>
+        <item name="bank"></item>
+        <item name="bar"></item>
+        <item name="cafe"></item>
+        <item name="car_rental"></item>
+        <item name="gym"></item>
+        <item name="hair_care"></item>
+        <item name="hospital"></item>
+        <item name="laundry"></item>
+        <item name="library"></item>
+        <item name="museum"></item>
+        <item name="night_club"></item>
+        <item name="parking"></item>
+        <item name="pharmacy"></item>
+        <item name="police"></item>
+        <item name="restaurant"></item>
+        <item name="shopping_mall"></item>
+        <item name="synagogue"></item>
+        <item name="zoo"></item>
+
+    </string-array>
+    <string-array name="icons">
+        <item name="airport-71.png"></item>
+        <item name="bank_dollar-71.png"></item>
+        <item name="bar-71.png"></item>
+        <item name="cafe-71.png"></item>
+        <item name="generic_business-71.png"></item>
+        <item name="school-71.png"></item>
+        <item name="generic_business-71.png"></item>
+        <item name="doctor-71.png"></item>
+        <item name="generic_business-71.png"></item>
+        <item name="school-71.png"></item>
+        <item name="museum-71.png"></item>
+        <item name="bar-71.png"></item>
+        <item name="generic_business-71.png"></item>
+        <item name="shopping-71.png"></item>
+        <item name="police-71.png"></item>
+        <item name="restaurant-71.png"></item>
+        <item name="shopping-71.png"></item>
+        <item name="worship_jewish-71.png"></item>
+        <item name="zoo-71.png"></item>
+
+    </string-array>
+    <string name="title_activity_permisson">PermissonActivity</string>
+
+</resources>
